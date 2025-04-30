@@ -6,6 +6,9 @@
 
 ---
 
+* :link: 공모전 경로 : [mof.go.kr](https://www.mof.go.kr/contest#0)
+
+
 ## 1. 데이터 소스 파악 및 접근 방법
 
 *   **🌊 해수욕장 수질 데이터:**
