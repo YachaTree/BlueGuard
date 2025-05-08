@@ -1,1 +1,8 @@
 .cursor/
+__pycache__/
+*.py[cod]
+*.pyo
+.vscode/
+.idea/
+.env
+*.env
